@@ -1087,3 +1087,801 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.10-17.21.00:463][564]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2021.11.10-17.21.00:465][564]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
 [2021.11.10-17.21.00:508][566]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2021.11.10-17.28.12:143][228]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2021.11.10-17.28.12:384][228]LogSavePackage: Moving 'E:/Unreal Engine Projects/GameDevProject/Ascension/Saved/FirstPersonExampleMap_Auto1F2529DF0404205753C41A99A5410CFB2.tmp' to 'E:/Unreal Engine Projects/GameDevProject/Ascension/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2021.11.10-17.28.12:389][228]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.253
+[2021.11.10-17.28.12:389][228]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.253
+[2021.11.10-17.38.12:869][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.11.10-17.38.12:869][ 98]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.007
+[2021.11.10-17.45.45:023][572]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.11.10-17.45.58:567][797]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.11.10-17.45.58:889][797]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 126 classes and 0 folders.
+[2021.11.10-17.46.00:263][797]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.11.10-17.46.34:800][ 55]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.11.10-17.46.34:867][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2021.11.10-17.46.36:489][152]LogSavePackage: Moving 'E:/Unreal Engine Projects/GameDevProject/Ascension/Saved/FirstPersonCharacterA222B8854DA083DF1725738EEC2D1139.tmp' to 'E:/Unreal Engine Projects/GameDevProject/Ascension/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.11.10-17.46.36:506][152]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.11.10-17.46.36:506][152]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.11.10-17.46.38:841][359]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.10-17.46.38:846][359]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.10-17.46.38:847][359]PIE: New page: PIE session: FirstPersonExampleMap (Nov 10, 2021, 5:46:38 AM)
+[2021.11.10-17.46.38:868][359]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.11.10-17.46.38:879][359]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011250s)
+[2021.11.10-17.46.38:881][359]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.11.10-17.46.38:881][359]LogPlayLevel: PIE: World Init took: (0.001526s)
+[2021.11.10-17.46.38:881][359]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.012990s)
+[2021.11.10-17.46.38:906][359]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2021.11.10-17.46.38:908][359]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.11.10-17.46.38:908][359]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.10-17.46.38:908][359]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.10-17.46.38:908][359]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.10-17.46.38:908][359]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.10-17.46.38:908][359]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.10-17.46.38:908][359]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.10-17.46.38:908][359]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.10-17.46.38:908][359]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.10-17.46.38:908][359]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.10-17.46.38:908][359]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.10-17.46.38:908][359]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.10-17.46.38:908][359]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.10-17.46.38:915][359]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.10-17.46.38:915][359]LogAudioMixer: Display: 1: FrontRight
+[2021.11.10-17.46.38:926][359]LogAudioMixer: Display: Using Audio Device Fidelio HEADSET (High Definition Audio Device)
+[2021.11.10-17.46.38:927][359]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.10-17.46.38:927][359]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.10-17.46.38:927][359]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.10-17.46.38:927][359]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.10-17.46.38:927][359]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.10-17.46.38:927][359]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.10-17.46.38:928][359]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.10-17.46.38:928][359]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.10-17.46.38:928][359]LogInit: FAudioDevice initialized.
+[2021.11.10-17.46.38:928][359]LogAudio: Display: Audio Device (ID: 3) registered with world 'FirstPersonExampleMap'.
+[2021.11.10-17.46.38:937][359]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.11.10-17.46.38:940][359]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.11.10-11.46.38
+[2021.11.10-17.46.38:940][359]LogWorld: Bringing up level for play took: 0.001766
+[2021.11.10-17.46.38:940][359]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.11.10-17.46.38:957][359]PIE: Server logged in
+[2021.11.10-17.46.38:959][359]PIE: Play in editor total start time 0.113 seconds.
+[2021.11.10-17.46.40:675][554]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-17.46.40:675][554]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.11.10-17.46.40:675][554]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-17.46.40:675][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-17.46.40:684][554]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.10-17.46.40:700][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-17.46.40:718][554]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.10-17.46.40:718][554]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.10-17.46.40:719][554]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.10-17.46.40:721][554]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-17.46.40:725][554]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2021.11.10-17.46.40:759][555]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.11.10-17.46.48:197][251]LogRenderer: Reallocating scene render targets to support 1144x712 Format 10 NumSamples 1 (Frame:1).
+[2021.11.10-17.47.05:088][729]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_21 via property FP_Gun, but TRASH_SkeletalMeshComponent_21 is pending kill
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2021.11.10-17.47.05:091][729]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_11 via property FP_Gun, but TRASH_SkeletalMeshComponent_11 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_2:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2021.11.10-17.47.05:092][729]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_31 via property FP_Gun, but TRASH_SkeletalMeshComponent_31 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_4:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2021.11.10-17.47.05:127][729]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_31 via property FP_Gun, but TRASH_SkeletalMeshComponent_31 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_4:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2021.11.10-17.47.11:917][331]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_21 via property FP_Gun, but TRASH_SkeletalMeshComponent_21 is pending kill
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2021.11.10-17.47.11:919][331]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_11 via property FP_Gun, but TRASH_SkeletalMeshComponent_11 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_2:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2021.11.10-17.47.11:921][331]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_31 via property FP_Gun, but TRASH_SkeletalMeshComponent_31 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_4:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2021.11.10-17.47.11:949][331]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_31 via property FP_Gun, but TRASH_SkeletalMeshComponent_31 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_4:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2021.11.10-17.47.13:427][454]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_21 via property FP_Gun, but TRASH_SkeletalMeshComponent_21 is pending kill
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2021.11.10-17.47.13:429][454]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_11 via property FP_Gun, but TRASH_SkeletalMeshComponent_11 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_2:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2021.11.10-17.47.13:431][454]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_31 via property FP_Gun, but TRASH_SkeletalMeshComponent_31 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_4:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2021.11.10-17.47.13:458][454]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_31 via property FP_Gun, but TRASH_SkeletalMeshComponent_31 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_4:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2021.11.10-17.47.14:160][517]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_21 via property FP_Gun, but TRASH_SkeletalMeshComponent_21 is pending kill
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2021.11.10-17.47.14:162][517]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_11 via property FP_Gun, but TRASH_SkeletalMeshComponent_11 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_2:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2021.11.10-17.47.14:164][517]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_31 via property FP_Gun, but TRASH_SkeletalMeshComponent_31 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_4:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2021.11.10-17.47.14:191][517]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_31 via property FP_Gun, but TRASH_SkeletalMeshComponent_31 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_4:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2021.11.10-17.47.14:805][575]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_21 via property FP_Gun, but TRASH_SkeletalMeshComponent_21 is pending kill
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2021.11.10-17.47.14:807][575]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_11 via property FP_Gun, but TRASH_SkeletalMeshComponent_11 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_2:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2021.11.10-17.47.14:808][575]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_31 via property FP_Gun, but TRASH_SkeletalMeshComponent_31 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_4:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2021.11.10-17.47.14:835][575]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_31 via property FP_Gun, but TRASH_SkeletalMeshComponent_31 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_4:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2021.11.10-17.47.16:670][738]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.11.10-17.47.16:675][738]LogBlueprint: Error: [AssetLog] E:\Unreal Engine Projects\GameDevProject\Ascension\Content\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: [Compiler] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2021.11.10-17.47.16:715][738]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2021.11.10-17.47.36:137][592]LogEditorTransaction: Undo Remove Components
+[2021.11.10-17.47.36:479][605]LogEditorTransaction: Undo Remove Components
+[2021.11.10-17.47.37:235][670]LogEditorTransaction: Undo Remove Components
+[2021.11.10-17.47.38:019][740]LogEditorTransaction: Undo Remove Components
+[2021.11.10-17.47.39:087][837]LogEditorTransaction: Undo Remove Components
+[2021.11.10-17.48.14:090][821]LogEditorTransaction: Undo Remove Components
+[2021.11.10-17.48.16:637][  2]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.11.10-17.48.16:688][  2]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.11.10-17.48.17:920][ 95]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.10-17.48.17:927][ 95]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.10-17.48.17:927][ 95]PIE: New page: PIE session: FirstPersonExampleMap (Nov 10, 2021, 5:48:17 AM)
+[2021.11.10-17.48.17:927][ 95]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.11.10-17.48.17:937][ 95]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010538s)
+[2021.11.10-17.48.17:939][ 95]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.11.10-17.48.17:939][ 95]LogPlayLevel: PIE: World Init took: (0.001273s)
+[2021.11.10-17.48.17:939][ 95]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.012032s)
+[2021.11.10-17.48.17:961][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2021.11.10-17.48.17:962][ 95]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.11.10-17.48.17:962][ 95]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.10-17.48.17:962][ 95]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.10-17.48.17:962][ 95]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.10-17.48.17:962][ 95]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.10-17.48.17:962][ 95]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.10-17.48.17:962][ 95]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.10-17.48.17:962][ 95]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.10-17.48.17:962][ 95]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.10-17.48.17:963][ 95]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.10-17.48.17:963][ 95]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.10-17.48.17:963][ 95]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.10-17.48.17:963][ 95]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.10-17.48.17:968][ 95]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.10-17.48.17:968][ 95]LogAudioMixer: Display: 1: FrontRight
+[2021.11.10-17.48.17:979][ 95]LogAudioMixer: Display: Using Audio Device Fidelio HEADSET (High Definition Audio Device)
+[2021.11.10-17.48.17:979][ 95]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.10-17.48.17:979][ 95]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.10-17.48.17:979][ 95]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.10-17.48.17:980][ 95]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.10-17.48.17:980][ 95]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.10-17.48.17:980][ 95]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.10-17.48.17:981][ 95]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.10-17.48.17:981][ 95]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.10-17.48.17:981][ 95]LogInit: FAudioDevice initialized.
+[2021.11.10-17.48.17:981][ 95]LogAudio: Display: Audio Device (ID: 4) registered with world 'FirstPersonExampleMap'.
+[2021.11.10-17.48.17:995][ 95]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.11.10-17.48.17:999][ 95]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.11.10-11.48.17
+[2021.11.10-17.48.17:999][ 95]LogWorld: Bringing up level for play took: 0.002736
+[2021.11.10-17.48.17:999][ 95]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.11.10-17.48.18:002][ 95]PIE: Server logged in
+[2021.11.10-17.48.18:003][ 95]PIE: Play in editor total start time 0.077 seconds.
+[2021.11.10-17.48.24:640][362]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-17.48.24:640][362]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.11.10-17.48.24:640][362]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-17.48.24:640][362]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-17.48.24:651][362]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.10-17.48.24:669][362]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-17.48.24:687][362]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.10-17.48.24:687][362]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.10-17.48.24:688][362]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.10-17.48.24:690][362]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-17.48.24:693][362]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2021.11.10-17.48.24:726][363]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.11.10-17.48.26:618][536]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.10-17.48.26:624][536]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.10-17.48.26:624][536]PIE: New page: PIE session: FirstPersonExampleMap (Nov 10, 2021, 5:48:26 AM)
+[2021.11.10-17.48.26:625][536]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.11.10-17.48.26:635][536]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010415s)
+[2021.11.10-17.48.26:636][536]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.11.10-17.48.26:636][536]LogPlayLevel: PIE: World Init took: (0.001199s)
+[2021.11.10-17.48.26:636][536]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.011817s)
+[2021.11.10-17.48.26:662][536]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2021.11.10-17.48.26:663][536]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.11.10-17.48.26:663][536]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.10-17.48.26:663][536]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.10-17.48.26:663][536]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.10-17.48.26:663][536]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.10-17.48.26:663][536]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.10-17.48.26:663][536]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.10-17.48.26:663][536]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.10-17.48.26:663][536]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.10-17.48.26:663][536]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.10-17.48.26:663][536]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.10-17.48.26:663][536]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.10-17.48.26:663][536]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.10-17.48.26:669][536]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.10-17.48.26:669][536]LogAudioMixer: Display: 1: FrontRight
+[2021.11.10-17.48.26:679][536]LogAudioMixer: Display: Using Audio Device Fidelio HEADSET (High Definition Audio Device)
+[2021.11.10-17.48.26:680][536]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.10-17.48.26:680][536]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.10-17.48.26:680][536]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.10-17.48.26:680][536]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.10-17.48.26:680][536]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.10-17.48.26:680][536]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.10-17.48.26:681][536]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.10-17.48.26:681][536]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.10-17.48.26:681][536]LogInit: FAudioDevice initialized.
+[2021.11.10-17.48.26:681][536]LogAudio: Display: Audio Device (ID: 5) registered with world 'FirstPersonExampleMap'.
+[2021.11.10-17.48.26:693][536]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.11.10-17.48.26:695][536]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.11.10-11.48.26
+[2021.11.10-17.48.26:695][536]LogWorld: Bringing up level for play took: 0.001997
+[2021.11.10-17.48.26:695][536]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2021.11.10-17.48.26:698][536]PIE: Server logged in
+[2021.11.10-17.48.26:698][536]PIE: Play in editor total start time 0.075 seconds.
+[2021.11.10-17.48.41:339][285]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-17.48.41:339][285]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.11.10-17.48.41:339][285]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-17.48.41:339][285]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-17.48.41:349][285]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.10-17.48.41:365][285]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-17.48.41:383][285]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-17.48.41:383][285]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.10-17.48.41:385][285]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.10-17.48.41:390][285]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2021.11.10-17.48.41:425][286]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.11.10-17.48.56:512][401]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.11.10-17.48.56:553][401]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2021.11.10-17.48.59:068][659]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.10-17.48.59:074][659]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.10-17.48.59:074][659]PIE: New page: PIE session: FirstPersonExampleMap (Nov 10, 2021, 5:48:59 AM)
+[2021.11.10-17.48.59:098][659]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.11.10-17.48.59:108][659]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010296s)
+[2021.11.10-17.48.59:110][659]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.11.10-17.48.59:110][659]LogPlayLevel: PIE: World Init took: (0.001536s)
+[2021.11.10-17.48.59:110][659]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.012043s)
+[2021.11.10-17.48.59:141][659]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2021.11.10-17.48.59:142][659]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.11.10-17.48.59:142][659]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.10-17.48.59:142][659]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.10-17.48.59:142][659]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.10-17.48.59:142][659]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.10-17.48.59:142][659]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.10-17.48.59:142][659]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.10-17.48.59:142][659]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.10-17.48.59:142][659]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.10-17.48.59:142][659]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.10-17.48.59:142][659]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.10-17.48.59:142][659]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.10-17.48.59:142][659]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.10-17.48.59:148][659]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.10-17.48.59:148][659]LogAudioMixer: Display: 1: FrontRight
+[2021.11.10-17.48.59:159][659]LogAudioMixer: Display: Using Audio Device Fidelio HEADSET (High Definition Audio Device)
+[2021.11.10-17.48.59:159][659]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.10-17.48.59:159][659]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.10-17.48.59:159][659]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.10-17.48.59:159][659]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.10-17.48.59:159][659]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.10-17.48.59:159][659]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.10-17.48.59:160][659]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.10-17.48.59:160][659]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.10-17.48.59:160][659]LogInit: FAudioDevice initialized.
+[2021.11.10-17.48.59:160][659]LogAudio: Display: Audio Device (ID: 6) registered with world 'FirstPersonExampleMap'.
+[2021.11.10-17.48.59:171][659]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.11.10-17.48.59:173][659]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.11.10-11.48.59
+[2021.11.10-17.48.59:174][659]LogWorld: Bringing up level for play took: 0.001456
+[2021.11.10-17.48.59:174][659]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.11.10-17.48.59:176][659]PIE: Server logged in
+[2021.11.10-17.48.59:176][659]PIE: Play in editor total start time 0.104 seconds.
+[2021.11.10-17.49.08:639][785]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-17.49.08:639][785]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.11.10-17.49.08:639][785]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-17.49.08:639][785]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-17.49.08:645][785]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.10-17.49.08:661][785]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-17.49.08:679][785]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.10-17.49.08:679][785]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.10-17.49.08:680][785]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.10-17.49.08:683][785]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-17.49.08:686][785]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2021.11.10-17.49.08:721][786]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.11.10-17.49.16:241][652]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2021.11.10-17.49.23:963][652]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.10-17.49.25:480][819]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile
+[2021.11.10-17.49.34:368][534]BlueprintLog: New page: Compile FirstPersonProjectile
+[2021.11.10-17.49.34:407][534]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2021.11.10-17.49.37:515][871]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2021.11.10-17.49.41:539][871]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.10-17.49.43:917][147]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/FirstPersonOverview.FirstPersonOverview
+[2021.11.10-17.49.47:470][442]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-17.49.47:470][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-17.49.55:771][394]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.10-17.49.55:777][394]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.10-17.49.55:777][394]PIE: New page: PIE session: FirstPersonExampleMap (Nov 10, 2021, 5:49:55 AM)
+[2021.11.10-17.49.55:798][394]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.11.10-17.49.55:809][394]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010746s)
+[2021.11.10-17.49.55:810][394]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.11.10-17.49.55:810][394]LogPlayLevel: PIE: World Init took: (0.001331s)
+[2021.11.10-17.49.55:810][394]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.012298s)
+[2021.11.10-17.49.55:841][394]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2021.11.10-17.49.55:845][394]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.11.10-17.49.55:845][394]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.10-17.49.55:845][394]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.10-17.49.55:845][394]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.10-17.49.55:845][394]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.10-17.49.55:845][394]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.10-17.49.55:845][394]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.10-17.49.55:845][394]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.10-17.49.55:845][394]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.10-17.49.55:845][394]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.10-17.49.55:846][394]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.10-17.49.55:846][394]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.10-17.49.55:846][394]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.10-17.49.55:852][394]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.10-17.49.55:852][394]LogAudioMixer: Display: 1: FrontRight
+[2021.11.10-17.49.55:862][394]LogAudioMixer: Display: Using Audio Device Fidelio HEADSET (High Definition Audio Device)
+[2021.11.10-17.49.55:863][394]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.10-17.49.55:863][394]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.10-17.49.55:863][394]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.10-17.49.55:863][394]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.10-17.49.55:863][394]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.10-17.49.55:863][394]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.10-17.49.55:864][394]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.10-17.49.55:864][394]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.10-17.49.55:864][394]LogInit: FAudioDevice initialized.
+[2021.11.10-17.49.55:864][394]LogAudio: Display: Audio Device (ID: 7) registered with world 'FirstPersonExampleMap'.
+[2021.11.10-17.49.55:874][394]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.11.10-17.49.55:877][394]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.11.10-11.49.55
+[2021.11.10-17.49.55:877][394]LogWorld: Bringing up level for play took: 0.001379
+[2021.11.10-17.49.55:877][394]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.11.10-17.49.55:879][394]PIE: Server logged in
+[2021.11.10-17.49.55:880][394]PIE: Play in editor total start time 0.104 seconds.
+[2021.11.10-17.49.58:789][731]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-17.49.58:789][731]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.11.10-17.49.58:790][731]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-17.49.58:790][731]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-17.49.58:797][731]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.10-17.49.58:813][731]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-17.49.58:833][731]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.10-17.49.58:834][731]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.10-17.49.58:835][731]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.10-17.49.58:837][731]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-17.49.58:840][731]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2021.11.10-17.49.58:874][732]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.11.10-17.50.05:276][453]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD
+[2021.11.10-17.50.44:967][974]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 15C1A402C69AD83E076900A2C2C178394B323D40), compiling. 
+[2021.11.10-17.50.45:025][975]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.11.10-17.50.45:035][975]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.11.10-17.50.45:035][975]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.11.10-17.50.45:035][975]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.10-17.50.45:119][975]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Normal' priority
+[2021.11.10-17.50.45:119][975]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 41
+[2021.11.10-17.50.45:119][975]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 31
+[2021.11.10-17.50.45:119][975]LogShaderCompilers: Display: Started 20 'Local' shader compile jobs with 'Normal' priority
+[2021.11.10-17.50.45:156][975]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: F32210A8B9338076C925D00E92EED2997F414514), compiling. 
+[2021.11.10-17.50.45:165][976]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.11.10-17.50.45:194][976]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Normal' priority
+[2021.11.10-17.50.45:218][976]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: D3AE1A4D94ADBEFE20D8E518E059B35DAB3E758E), compiling. 
+[2021.11.10-17.50.45:227][977]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.11.10-17.50.45:256][977]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Normal' priority
+[2021.11.10-17.50.45:270][977]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: F47E961572662307898E97EF18D8B3B281A32C65), compiling. 
+[2021.11.10-17.50.45:280][978]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.11.10-17.50.45:326][979]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Normal' priority
+[2021.11.10-17.50.47:308][117]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2021.11.10-17.50.47:308][117]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.10-17.50.47:310][117]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.11.10-17.50.47:310][117]LogShaderCompilers: Display: Total job queries 172, among them cache hits 0 (0.00%)
+[2021.11.10-17.50.47:310][117]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2021.11.10-17.50.47:310][117]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2021.11.10-17.50.47:310][117]LogShaderCompilers: Display: ================================================
+[2021.11.10-17.50.47:471][129]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2021.11.10-17.50.47:471][129]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.10-17.50.48:441][189]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.11.10-17.50.48:441][189]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.10-17.50.48:511][194]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.11.10-17.50.48:511][194]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.10-17.50.48:992][222]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 144
+[2021.11.10-17.50.48:992][222]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.10-17.50.49:080][228]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 134
+[2021.11.10-17.50.49:080][228]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.10-17.50.50:645][330]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 124
+[2021.11.10-17.50.50:645][330]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.10-17.50.51:771][400]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 114
+[2021.11.10-17.50.51:771][400]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.10-17.50.52:868][464]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 104
+[2021.11.10-17.50.52:868][464]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.10-17.50.53:822][517]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 94
+[2021.11.10-17.50.53:822][517]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.10-17.50.54:725][564]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 84
+[2021.11.10-17.50.54:725][564]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.10-17.50.55:115][584]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 74
+[2021.11.10-17.50.55:115][584]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.10-17.50.57:517][705]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 64
+[2021.11.10-17.50.57:517][705]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.10-17.50.58:227][740]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 54
+[2021.11.10-17.50.58:227][740]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.10-17.50.58:294][741]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 44
+[2021.11.10-17.50.58:294][741]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.10-17.50.59:061][782]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 34
+[2021.11.10-17.50.59:061][782]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Normal' priority
+[2021.11.10-17.51.01:792][924]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2021.11.10-17.51.01:793][924]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Normal' priority
+[2021.11.10-17.51.01:931][931]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2021.11.10-17.51.01:931][931]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2021.11.10-17.51.02:776][973]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2021.11.10-17.51.02:776][973]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2021.11.10-17.51.02:898][980]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.11.10-17.51.02:898][980]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2021.11.10-17.51.03:661][ 21]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.11.10-17.51.03:661][ 21]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.11.10-17.51.04:041][ 39]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2021.11.10-17.51.04:042][ 39]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.11.10-17.51.04:371][ 54]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.11.10-17.51.04:371][ 54]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.10-17.51.04:394][ 55]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.11.10-17.51.04:394][ 55]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.10-17.51.05:791][177]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 8B15B679741B9E7BA5EC197770BB1A787AAD2C0E), compiling. 
+[2021.11.10-17.51.05:852][178]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: B0C70EA5772AB574313E8B717C30EA5A1BDA597B), compiling. 
+[2021.11.10-17.51.05:878][179]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.11.10-17.51.05:878][179]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.11.10-17.51.05:878][179]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.11.10-17.51.05:878][179]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.10-17.51.05:903][179]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Normal' priority
+[2021.11.10-17.51.05:903][179]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 41
+[2021.11.10-17.51.05:903][179]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 31
+[2021.11.10-17.51.05:903][179]LogShaderCompilers: Display: Started 20 'Local' shader compile jobs with 'Normal' priority
+[2021.11.10-17.51.05:923][179]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: CB610C07D7853AD66695CE7FC0A2B8F99760104A), compiling. 
+[2021.11.10-17.51.06:014][180]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: FE39AA64DBFB63CB837E772EB9D2991C0B7847EB), compiling. 
+[2021.11.10-17.51.06:391][192]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2021.11.10-17.51.06:391][192]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2021.11.10-17.51.06:518][200]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2021.11.10-17.51.06:518][200]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2021.11.10-17.51.08:387][315]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2021.11.10-17.51.08:387][315]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2021.11.10-17.51.08:945][347]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2021.11.10-17.51.08:945][347]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2021.11.10-17.51.09:085][354]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.11.10-17.51.09:085][354]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.11.10-17.51.09:516][375]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.11.10-17.51.09:516][375]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.10-17.51.09:855][394]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.11.10-17.51.09:855][394]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.10-17.51.09:889][396]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.11.10-17.51.09:889][396]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.10-17.51.14:368][770]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2021.11.10-17.51.17:659][770]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.10-17.51.39:629][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2021.11.10-17.51.41:222][609]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.10-17.51.42:028][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.11.10-17.51.44:871][683]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.10-17.52.20:529][398]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.11.10-17.52.24:399][398]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.10-17.52.26:076][488]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.11.10-17.52.26:306][488]LogSavePackage: Moving 'E:/Unreal Engine Projects/GameDevProject/Ascension/Saved/FirstPersonExampleMap236C3196409D508A9D8237BF8E8580FA.tmp' to 'E:/Unreal Engine Projects/GameDevProject/Ascension/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.11.10-17.52.27:168][488]LogSavePackage: Moving 'E:/Unreal Engine Projects/GameDevProject/Ascension/Saved/FirstPersonExampleMap_BuiltDataE5416FD540A77FE2F19A5AB7AD7B3FAF.tmp' to 'E:/Unreal Engine Projects/GameDevProject/Ascension/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.11.10-17.52.27:192][488]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.10-17.52.27:192][488]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.11.10-17.52.27:192][488]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.11.10-17.52.28:319][550]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2021.11.10-17.52.31:161][550]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.10-17.52.32:162][601]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.11.10-17.52.36:196][601]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.10-17.52.36:214][601]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/FPWeapon/Mesh/SK_FPGun_Skeleton.SK_FPGun_Skeleton
+[2021.11.10-17.52.36:278][601]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2021.11.10-17.52.36:315][601]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2021.11.10-17.52.36:559][601]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2021.11.10-17.52.36:758][601]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.11.10-17.52.36:808][601]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2021.11.10-17.52.37:597][602]LogRenderer: Reallocating scene render targets to support 1144x884 Format 10 NumSamples 1 (Frame:1).
+[2021.11.10-17.52.42:308][978]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-17.52.42:308][978]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-17.53.09:372][983]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2021.11.10-17.53.13:777][983]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.10-17.53.16:724][225]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/FPWeapon/Mesh/SK_FPGun_Skeleton.SK_FPGun_Skeleton
+[2021.11.10-17.53.16:729][225]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.11.10-17.53.20:388][520]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-17.53.20:388][520]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-17.53.21:838][627]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2021.11.10-17.53.26:689][627]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.10-17.53.27:361][676]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.SK_FPGun_PhysicsAsset
+[2021.11.10-17.53.27:405][676]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0003 seconds. Added 8 classes and 3 folders.
+[2021.11.10-17.53.27:449][676]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2021.11.10-17.53.29:219][773]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-17.53.29:219][773]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-17.53.30:206][843]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/FPWeapon/Mesh/SK_FPGun.SK_FPGun
+[2021.11.10-17.53.30:226][843]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.11.10-17.53.32:232][977]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-17.53.32:233][977]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-17.53.33:561][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2021.11.10-17.53.52:767][ 67]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.10-17.53.52:865][ 67]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/FPWeapon/Mesh/SK_FPGun.SK_FPGun
+[2021.11.10-17.53.55:629][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2021.11.10-17.53.55:658][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2021.11.10-17.53.55:684][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.11.10-17.53.55:733][ 69]LogLinker: Warning: Failed to load '/Game/FPWeapon/Mesh/SK_FPGun': Can't find file.
+[2021.11.10-17.53.55:737][ 69]LogLinker: Warning: Failed to load '/Game/FPWeapon/Mesh/SK_FPGun': Can't find file.
+[2021.11.10-17.53.55:737][ 69]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/FPWeapon/Mesh/SK_FPGun.SK_FPGun'
+[2021.11.10-17.53.57:495][191]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2021.11.10-17.54.00:182][191]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.10-17.54.00:280][191]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2021.11.10-17.54.00:317][191]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.11.10-17.54.00:343][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.11.10-17.54.01:156][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2021.11.10-17.54.02:101][246]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.10-17.54.02:193][246]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2021.11.10-17.54.02:227][246]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.11.10-17.54.02:264][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.11.10-17.54.05:178][502]MapCheck: New page: Map Check
+[2021.11.10-17.54.05:193][502]Cmd: MAP REBUILD ALLVISIBLE
+[2021.11.10-17.54.05:193][502]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.11.10-17.54.05:195][502]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=false
+[2021.11.10-17.54.05:208][502]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.11.10-17.54.05:208][502]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.11.10-17.54.05:208][502]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.11.10-17.54.05:236][502]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2021.11.10-17.54.05:240][502]LogLevel: Display: Export Material TexCoord Scales took 0.003 seconds.
+[2021.11.10-17.54.05:245][502]TextureStreamingBuild: Display: Build Texture Streaming took 0.005 seconds.
+[2021.11.10-17.54.05:271][502]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.11.10-17.54.05:272][502]LightingResults: New page: Lighting Build - Nov 10, 2021, 5:54:05 AM
+[2021.11.10-17.54.05:286][502]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.11.10-17.54.05:303][502]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.11.10-17.54.05:303][502]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.11.10-17.54.05:824][502]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.11.10-17.54.05:824][502]LogSwarmInterface: [TryOpenConnection] Local Process ID is 16068
+[2021.11.10-17.54.08:164][502]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.11.10-17.54.08:164][502]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.11.10-17.54.08:164][502]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.11.10-17.54.08:164][502]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.11.10-17.54.08:164][502]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.11.10-17.54.08:312][502]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.11.10-17.54.08:312][502]MapCheck: New page: FirstPersonExampleMap - Nov 10, 2021, 5:54:08 AM
+[2021.11.10-17.54.08:313][502]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.809ms to complete.
+[2021.11.10-17.54.08:315][502]LogEditorBuildUtils: Build time 0:03
+[2021.11.10-17.54.08:330][502]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.11.10-17.54.08:330][502]LogShaderCompilers: Display: Total job queries 1222, among them cache hits 1007 (82.41%)
+[2021.11.10-17.54.08:330][502]LogShaderCompilers: Display: Tracking 215 distinct input hashes that result in 93 distinct outputs (43.26%)
+[2021.11.10-17.54.08:330][502]LogShaderCompilers: Display: RAM used: 0.40 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.05%
+[2021.11.10-17.54.08:330][502]LogShaderCompilers: Display: ================================================
+[2021.11.10-17.54.08:449][504]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2021.11.10-17.54.20:140][932]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.11.10-17.54.20:235][932]LogUObjectHash: Compacting FUObjectHashTables data took   5.38ms
+[2021.11.10-17.54.46:927][258]Job is a success!
+[2021.11.10-17.54.47:029][259]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.014s
+[2021.11.10-17.54.47:029][259]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.11.10-17.54.47:029][259]LogVolumetricLightmapImport:      BrickData (all levels) 0.3Mb
+[2021.11.10-17.54.47:029][259]LogVolumetricLightmapImport:      Bricks at depth
+[2021.11.10-17.54.47:029][259]LogVolumetricLightmapImport:          0: 1.5% covering 100.0% of volume
+[2021.11.10-17.54.47:029][259]LogVolumetricLightmapImport:          1: 5.9% covering 6.2% of volume
+[2021.11.10-17.54.47:029][259]LogVolumetricLightmapImport:          2: 92.6% covering 1.5% of volume
+[2021.11.10-17.54.47:029][259]LogVolumetricLightmapImport:      Bricks in each level
+[2021.11.10-17.54.47:029][259]LogVolumetricLightmapImport:          FirstPersonExampleMap 			 68 bricks 	 100.0% (Persistent Level)
+[2021.11.10-17.54.48:410][259]LogTexture: Display: Building textures: SkyOcclusion1_1 (OODLE_AutoDXT, 2048X1024)
+[2021.11.10-17.54.48:410][259]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.11.10-17.54.48:410][259]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.11.10-17.54.48:410][259]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 2048X2048)
+[2021.11.10-17.54.48:410][259]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.11.10-17.54.48:410][259]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.11.10-17.54.48:410][259]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 2048X2048)
+[2021.11.10-17.54.48:410][259]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.11.10-17.54.48:410][259]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.11.10-17.54.48:410][259]LogTexture: Display: Building textures: SkyOcclusion1_2 (OODLE_AutoDXT, 2048X1024)
+[2021.11.10-17.54.48:410][259]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 2048X2048)
+[2021.11.10-17.54.48:410][259]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 2048X2048)
+[2021.11.10-17.54.48:410][259]LogTexture: Display: Building textures: SkyOcclusion1_3 (OODLE_AutoDXT, 2048X1024)
+[2021.11.10-17.54.48:410][259]LogTexture: Display: Building textures: HQ_Lightmap1_3 (OODLE_AutoDXT, 2048X2048)
+[2021.11.10-17.54.48:411][259]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.11.10-17.54.48:411][259]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.11.10-17.54.48:411][259]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (OODLE_DXT1, 2048X2048)
+[2021.11.10-17.54.48:411][259]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.11.10-17.54.48:411][259]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.11.10-17.54.48:411][259]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.11.10-17.54.48:411][259]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.11.10-17.54.48:411][259]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.11.10-17.54.48:411][259]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.11.10-17.54.48:411][259]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.11.10-17.54.48:411][259]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.11.10-17.54.48:411][259]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.11.10-17.54.48:411][259]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.11.10-17.54.48:411][259]LogTexture: Display: Building textures: SkyOcclusion1_4 (OODLE_AutoDXT, 2048X1024)
+[2021.11.10-17.54.48:411][259]LogTexture: Display: Building textures: HQ_Lightmap1_4 (OODLE_AutoDXT, 2048X2048)
+[2021.11.10-17.54.48:411][259]LogTextureFormatOodle: Display: non-RDO encode 2048 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.11.10-17.54.48:411][259]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (OODLE_DXT1, 2048X2048)
+[2021.11.10-17.54.48:411][259]LogTexture: Display: Building textures: SkyOcclusion1_5 (OODLE_AutoDXT, 64X32)
+[2021.11.10-17.54.48:411][259]LogTexture: Display: Building textures: HQ_Lightmap1_5 (OODLE_AutoDXT, 64X64)
+[2021.11.10-17.54.48:411][259]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.11.10-17.54.48:411][259]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (OODLE_DXT1, 64X64)
+[2021.11.10-17.54.48:411][259]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.11.10-17.54.48:411][259]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.11.10-17.54.48:411][259]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.11.10-17.54.48:411][259]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.11.10-17.54.48:816][259]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 1024X1024)
+[2021.11.10-17.54.48:816][259]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 1024X1024)
+[2021.11.10-17.54.48:816][259]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 32X32)
+[2021.11.10-17.54.48:816][259]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 1024X1024)
+[2021.11.10-17.54.48:816][259]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 1024X1024)
+[2021.11.10-17.54.48:817][259]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 1024X1024)
+[2021.11.10-17.54.49:016][259]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 1024X1024)
+[2021.11.10-17.54.49:110][259]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (G8, 1024X1024)
+[2021.11.10-17.54.49:110][259]LogStaticLightingSystem: FirstPersonExampleMap_BuiltData storing lightmap data for 8 meshes in 8 LightmapResourceClusters (1.0 Meshes per cluster).
+[2021.11.10-17.54.49:148][259]Lightmass on DESKTOP-SPEEDDE: 40.0 sec total, 188 ms importing, 14 ms setup, 6.14 sec photons, 33.6 sec processing, 0 ms extra exporting [8/8 mappings]. Threads: 3:55 min total, 1:56 min processing.
+[2021.11.10-17.54.49:154][259]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2021.11.10-17.54.49:196][259]LogStaticLightingSystem: Illumination: 43.8 sec (1.10 sec encoding lightmaps, 678 ms encoding shadowmaps)
+[2021.11.10-17.54.49:196][259]LogStaticLightingSystem: Lightmap texture memory:  42.7 MB (42.7 MB streaming, 0.0 MB non-streaming), 10 textures
+[2021.11.10-17.54.49:196][259]LogStaticLightingSystem: Shadowmap texture memory: 9.3 MB (9.3 MB streaming, 0.0 MB non-streaming), 8 textures
+[2021.11.10-17.54.50:199][259]DumpUnbuiltLightIteractions
+[2021.11.10-17.54.50:199][259]Lights with unbuilt interactions: 0
+[2021.11.10-17.54.50:199][259]
+[2021.11.10-17.54.50:200][259]Primitives with unbuilt interactions: 0
+[2021.11.10-17.54.50:267][259]LogTexture: Display: Building textures: NewReflectionComponentTexture4E9A31EC459F824B7293D9A5960F381F (BGRA8, 128X128)
+[2021.11.10-17.54.50:298][260]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.11.10-17.54.50:298][260]MapCheck: New page: FirstPersonExampleMap - Nov 10, 2021, 5:54:50 AM
+[2021.11.10-17.54.50:298][260]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.827ms to complete.
+[2021.11.10-17.54.51:721][425]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.10-17.54.51:727][425]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.10-17.54.51:727][425]PIE: New page: PIE session: FirstPersonExampleMap (Nov 10, 2021, 5:54:51 AM)
+[2021.11.10-17.54.51:758][425]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.11.10-17.54.51:770][425]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011990s)
+[2021.11.10-17.54.51:771][425]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.11.10-17.54.51:772][425]LogPlayLevel: PIE: World Init took: (0.001692s)
+[2021.11.10-17.54.51:772][425]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.013944s)
+[2021.11.10-17.54.51:809][425]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2021.11.10-17.54.51:810][425]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.11.10-17.54.51:810][425]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.10-17.54.51:810][425]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.10-17.54.51:810][425]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.10-17.54.51:810][425]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.10-17.54.51:810][425]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.10-17.54.51:810][425]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.10-17.54.51:810][425]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.10-17.54.51:810][425]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.10-17.54.51:811][425]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.10-17.54.51:811][425]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.10-17.54.51:811][425]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.10-17.54.51:811][425]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.10-17.54.51:817][425]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.10-17.54.51:817][425]LogAudioMixer: Display: 1: FrontRight
+[2021.11.10-17.54.51:828][425]LogAudioMixer: Display: Using Audio Device Fidelio HEADSET (High Definition Audio Device)
+[2021.11.10-17.54.51:828][425]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.10-17.54.51:828][425]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.10-17.54.51:828][425]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.10-17.54.51:829][425]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.10-17.54.51:829][425]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.10-17.54.51:829][425]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.10-17.54.51:830][425]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.10-17.54.51:830][425]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.10-17.54.51:830][425]LogInit: FAudioDevice initialized.
+[2021.11.10-17.54.51:830][425]LogAudio: Display: Audio Device (ID: 8) registered with world 'FirstPersonExampleMap'.
+[2021.11.10-17.54.51:842][425]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.11.10-17.54.51:844][425]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.11.10-11.54.51
+[2021.11.10-17.54.51:844][425]LogWorld: Bringing up level for play took: 0.001794
+[2021.11.10-17.54.51:845][425]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2021.11.10-17.54.51:847][425]PIE: Server logged in
+[2021.11.10-17.54.51:847][425]PIE: Play in editor total start time 0.121 seconds.
+[2021.11.10-17.54.56:399][960]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-17.54.56:399][960]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.11.10-17.54.56:399][960]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-17.54.56:399][960]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-17.54.56:408][960]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.10-17.54.56:426][960]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-17.54.56:455][960]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-17.54.56:455][960]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.10-17.54.56:457][960]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.10-17.54.56:463][960]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2021.11.10-17.54.56:505][961]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2021.11.10-17.55.45:810][730]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2021.11.10-17.55.47:765][730]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.10-17.55.49:877][964]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.11.10-17.55.51:065][964]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.10-17.55.51:160][964]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2021.11.10-17.55.51:198][964]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2021.11.10-17.55.51:227][964]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.11.10-17.55.53:875][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.11.10-17.55.54:901][264]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.10-17.55.54:984][264]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2021.11.10-17.55.55:027][264]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2021.11.10-17.55.55:058][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.11.10-17.55.56:654][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.11.10-17.55.57:491][447]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.10-17.55.57:586][447]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2021.11.10-17.55.57:628][447]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2021.11.10-17.55.57:660][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.11.10-17.56.17:826][686]LogTexture: Display: Building textures: T_ML_FineRubber (OODLE_AutoDXT, 2048X2048)
+[2021.11.10-17.56.17:826][686]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.11.10-17.56.17:826][686]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.11.10-17.56.17:826][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.11.10-17.56.20:432][686]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.10-17.56.20:509][686]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2021.11.10-17.56.20:541][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.11.10-17.56.20:571][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.11.10-17.56.20:602][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.11.10-17.56.20:630][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.11.10-17.56.20:660][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.11.10-17.56.20:690][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.11.10-17.56.20:726][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.11.10-17.56.20:755][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.11.10-17.56.20:794][686]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2021.11.10-17.56.20:823][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.11.10-17.56.31:509][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.11.10-17.56.31:744][851]LogSavePackage: Moving 'E:/Unreal Engine Projects/GameDevProject/Ascension/Saved/FirstPersonExampleMap6A958A1D41BB8D17E76755B9EC95117E.tmp' to 'E:/Unreal Engine Projects/GameDevProject/Ascension/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.11.10-17.56.32:590][851]LogSavePackage: Moving 'E:/Unreal Engine Projects/GameDevProject/Ascension/Saved/FirstPersonExampleMap_BuiltData71BAA0D241A30095DA4E418FC485BE82.tmp' to 'E:/Unreal Engine Projects/GameDevProject/Ascension/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.11.10-17.56.32:620][851]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.10-17.56.32:620][851]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.11.10-17.56.32:620][851]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.11.10-17.56.39:271][595]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2021.11.10-17.56.39:504][595]LogSavePackage: Moving 'E:/Unreal Engine Projects/GameDevProject/Ascension/Saved/FirstPersonExampleMap694926D9488CEC4ADED472B3CE5F816F.tmp' to 'E:/Unreal Engine Projects/GameDevProject/Ascension/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.11.10-17.56.40:360][595]LogSavePackage: Moving 'E:/Unreal Engine Projects/GameDevProject/Ascension/Saved/FirstPersonExampleMap_BuiltData14E767444F47C223B0FE2FA484E25E5F.tmp' to 'E:/Unreal Engine Projects/GameDevProject/Ascension/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.11.10-17.56.40:386][595]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.10-17.56.40:386][595]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.11.10-17.56.40:387][595]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.11.10-17.56.42:103][779]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2021.11.10-17.56.42:221][779]LogSavePackage: Moving 'E:/Unreal Engine Projects/GameDevProject/Ascension/Saved/FirstPersonCharacterD31842B444411C4550E661817B57F255.tmp' to 'E:/Unreal Engine Projects/GameDevProject/Ascension/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.11.10-17.56.42:267][779]LogSavePackage: Moving 'E:/Unreal Engine Projects/GameDevProject/Ascension/Saved/FirstPersonProjectile4E05FB1E4C09C749930EA087AF4A5A6D.tmp' to 'E:/Unreal Engine Projects/GameDevProject/Ascension/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset'
+[2021.11.10-17.56.42:286][779]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.10-17.56.42:287][779]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile
+[2021.11.10-17.56.42:287][779]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.11.10-17.56.43:681][939]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.10-17.56.43:687][939]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.10-17.56.43:687][939]PIE: New page: PIE session: FirstPersonExampleMap (Nov 10, 2021, 5:56:43 AM)
+[2021.11.10-17.56.43:688][939]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.11.10-17.56.43:699][939]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010907s)
+[2021.11.10-17.56.43:700][939]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.11.10-17.56.43:700][939]LogPlayLevel: PIE: World Init took: (0.001318s)
+[2021.11.10-17.56.43:700][939]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.012487s)
+[2021.11.10-17.56.43:734][939]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2021.11.10-17.56.43:736][939]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.11.10-17.56.43:736][939]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.10-17.56.43:736][939]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.10-17.56.43:736][939]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.10-17.56.43:736][939]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.10-17.56.43:736][939]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.10-17.56.43:736][939]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.10-17.56.43:736][939]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.10-17.56.43:736][939]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.10-17.56.43:736][939]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.10-17.56.43:736][939]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.10-17.56.43:736][939]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.10-17.56.43:736][939]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.10-17.56.43:742][939]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.10-17.56.43:742][939]LogAudioMixer: Display: 1: FrontRight
+[2021.11.10-17.56.43:753][939]LogAudioMixer: Display: Using Audio Device Fidelio HEADSET (High Definition Audio Device)
+[2021.11.10-17.56.43:753][939]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.10-17.56.43:753][939]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.10-17.56.43:753][939]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.10-17.56.43:753][939]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.10-17.56.43:753][939]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.10-17.56.43:753][939]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.10-17.56.43:755][939]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.10-17.56.43:755][939]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.10-17.56.43:755][939]LogInit: FAudioDevice initialized.
+[2021.11.10-17.56.43:755][939]LogAudio: Display: Audio Device (ID: 9) registered with world 'FirstPersonExampleMap'.
+[2021.11.10-17.56.43:765][939]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.11.10-17.56.43:767][939]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.11.10-11.56.43
+[2021.11.10-17.56.43:767][939]LogWorld: Bringing up level for play took: 0.001442
+[2021.11.10-17.56.43:767][939]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2021.11.10-17.56.43:770][939]PIE: Server logged in
+[2021.11.10-17.56.43:771][939]PIE: Play in editor total start time 0.085 seconds.
+[2021.11.10-17.56.44:988][ 74]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-17.56.44:988][ 74]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.11.10-17.56.44:989][ 74]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-17.56.44:989][ 74]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-17.56.44:998][ 74]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.10-17.56.45:016][ 74]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-17.56.45:045][ 74]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.10-17.56.45:046][ 74]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.10-17.56.45:047][ 74]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.10-17.56.45:049][ 74]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-17.56.45:053][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2021.11.10-17.56.45:090][ 75]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2021.11.10-17.56.50:485][464]LogSlate: Window 'FirstPersonHUD' being destroyed
+[2021.11.10-17.56.50:489][464]LogSlate: Window 'FirstPersonHUD' being destroyed
+[2021.11.10-17.56.50:493][464]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-17.56.50:493][464]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-17.56.50:563][464]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.11.10-17.56.50:563][464]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-17.56.50:563][464]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-17.56.50:611][464]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.11.10-17.56.50:611][464]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-17.56.50:611][464]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
